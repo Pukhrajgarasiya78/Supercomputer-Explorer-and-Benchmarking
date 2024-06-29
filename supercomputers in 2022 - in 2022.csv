@@ -1,0 +1,2001 @@
+current rank,Manufacturer,Computer/System Model,Name,where this supercomputer present,Cores,Rmax (PFlop/s),Rpeak (PFlop/s),Power (kW)
+1,"HPE
+                
+                
+                    United States","- HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11,",Frontier,DOE/SC/Oak Ridge National Laboratory,"87,30,112","1,102.00","1,685.65","21,100"
+2,"Fujitsu
+                
+                
+                    Japan","- Supercomputer Fugaku, A64FX 48C 2.2GHz, Tofu interconnect D,",Supercomputer Fugaku,RIKEN Center for Computational Science,"76,30,848",442.01,537.21,"29,899"
+3,"HPE
+                
+                
+                    Finland","- HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11,",LUMI,EuroHPC/CSC,"11,10,144",151.9,214.35,"2,942"
+4,"IBM
+                
+                
+                    United States","- IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband,",Summit,DOE/SC/Oak Ridge National Laboratory,"24,14,592",148.6,200.79,"10,096"
+5,"IBM / NVIDIA / Mellanox
+                
+                
+                    United States","- IBM Power System AC922, IBM POWER9 22C 3.1GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband,",Sierra,DOE/NNSA/LLNL,"15,72,480",94.64,125.71,"7,438"
+6,"NRCPC
+                
+                
+                    China","- Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway,",Sunway TaihuLight,National Supercomputing Center in Wuxi,"1,06,49,600",93.01,125.44,"15,371"
+7,"HPE
+                
+                
+                    United States","- HPE Cray EX235n, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10,",Perlmutter,DOE/SC/LBNL/NERSC,"7,61,856",70.87,93.75,"2,589"
+8,"Nvidia
+                
+                
+                    United States","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband,",Selene,NVIDIA Corporation,"5,55,520",63.46,79.22,"2,646"
+9,"NUDT
+                
+                
+                    China","- TH-IVB-FEP Cluster, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Matrix-2000,",Tianhe-2A,National Super Computer Center in Guangzhou,"49,81,760",61.44,100.68,"18,482"
+10,"HPE
+                
+                
+                    France","- HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11,",Adastra,Grand Equipement National de Calcul Intensif - Centre Informatique National de l'Enseignement Suprieur (GENCI-CINES),"3,19,072",46.1,61.61,921
+11,"Atos
+                
+                
+                    Germany","- Bull Sequana XH2000 , AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite,",JUWELS Booster Module,Forschungszentrum Juelich (FZJ),"4,49,280",44.12,70.98,"1,764"
+12,"DELL EMC
+                
+                
+                    Italy","- PowerEdge C4140, Xeon Gold 6252 24C 2.1GHz, NVIDIA Tesla V100, Mellanox HDR Infiniband,",HPC5,Eni S.p.A.,"6,69,760",35.45,51.72,"2,252"
+13,"Microsoft Azure
+                
+                
+                    United States","- ND96amsr_A100_v4, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100 80GB​, Mellanox HDR Infiniband,",Voyager-EUS2,Azure East US 2,"2,53,440",30.05,39.53,
+14,"HPE
+                
+                
+                    United States","- Apollo 6500, AMD EPYC 7532 32C 2.4GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10,",Polaris,DOE/SC/Argonne National Laboratory,"2,56,592",25.81,34.16,
+15,"HPE
+                
+                
+                    South Korea","- Apollo 6500 Gen10 plus, AMD  EPYC 7543 32C 2.8GHz, NVIDIA A100 80GB​, Infiniband HDR200,",SSC-21,Samsung Electronics,"2,04,160",25.18,31.75,
+16,"DELL EMC
+                
+                
+                    United States","- Dell C6420, Xeon Platinum 8280 28C 2.7GHz, Mellanox InfiniBand HDR,",Frontera,Texas Advanced Computing Center/Univ. of Texas,"4,48,448",23.52,38.75,
+17,"Atos
+                
+                
+                    France","- BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, Atos BXI V2,",CEA-HF,Commissariat a l'Energie Atomique (CEA),"8,10,240",23.24,31.76,"4,959"
+18,"HPE
+                
+                
+                    Saudi Arabia","- Cray CS-Storm, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100 SXM2, InfiniBand HDR 100,",Dammam-7,Saudi Aramco,"6,72,520",22.4,55.42,
+19,"Fujitsu
+                
+                
+                    Japan","- PRIMERGY GX2570 M6, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR,",ABCI 2.0,National Institute of Advanced Industrial Science and Technology (AIST),"5,04,000",22.21,54.34,"1,600"
+20,"Fujitsu
+                
+                
+                    Japan","- PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D,",Wisteria/BDEC-01 (Odyssey),"Information Technology Center, The University of Tokyo","3,68,640",22.12,25.95,"1,468"
+21,"IBM
+                
+                
+                    Italy","- IBM Power System AC922, IBM POWER9 16C 3GHz, Nvidia Volta V100, Dual-rail Mellanox EDR Infiniband,",Marconi-100,CINECA,"3,47,776",21.64,29.35,"1,476"
+22,"YANDEX, NVIDIA
+                
+                
+                    Russia","- YANDEX Y4N-GA1-TY25-ZB0, AMD EPYC 7702 64C 2GHz, NVIDIA A100 80GB​, Infiniband,",Chervonenkis,Yandex,"1,93,440",21.53,29.42,
+23,"HPE
+                
+                
+                    Switzerland","- Cray XC50, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect , NVIDIA Tesla P100,",Piz Daint,Swiss National Supercomputing Centre (CSCS),"3,87,872",21.23,27.15,"2,384"
+24,"HPE
+                
+                
+                    United States","- Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect,",Trinity,DOE/NNSA/LANL/SNL,"9,79,072",20.16,41.46,"7,578"
+25,"HPE
+                
+                
+                    United Kingdom","- Cray XE, AMD EPYC 7742 64C 2.25GHz, Slingshot-10,",ARCHER2,EPSRC/University of Edinburgh,"7,16,800",19.54,25.8,
+26,"Lenovo
+                
+                
+                    Germany","- ThinkSystem SD650, Xeon Platinum 8174 24C 3.1GHz, Intel Omni-Path,",SuperMUC-NG,Leibniz Rechenzentrum,"3,05,856",19.48,26.87,
+27,"HPE
+                
+                
+                    Germany","- Apollo 9000, AMD EPYC 7742 64C 2.25GHz, Mellanox HDR Infiniband,",Hawk,HLRS - Höchstleistungsrechenzentrum Stuttgart,"6,98,880",19.33,25.16,"3,906"
+28,"HPE
+                
+                
+                    Saudi Arabia","- HPE Cray EX, AMD EPYC 7702 64C 2GHz, Slingshot-10,",Ghawar-1,Saudi Aramco,"7,14,240",19.26,22.86,
+29,"HPE
+                
+                
+                    United States","- HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11,",Frontier TDS,DOE/SC/Oak Ridge National Laboratory,"1,20,832",19.2,23.11,309
+30,"IBM / NVIDIA / Mellanox
+                
+                
+                    United States","- IBM Power System AC922, IBM POWER9 22C 3.1GHz, Dual-rail Mellanox EDR Infiniband, NVIDIA Tesla V100,",Lassen,DOE/NNSA/LLNL,"2,88,288",18.2,23.05,
+31,"Lenovo
+                
+                
+                    South Korea","- ThinkSystem SD650 V2, Xeon Platinum 8368Q 38C 2.6GHz, Infiniband HDR,",Guru,Korea Meteorological Administration,"3,06,432",18,25.5,"3,296"
+32,"Lenovo
+                
+                
+                    South Korea","- ThinkSystem SD650 V2, Xeon Platinum 8368Q 38C 2.6GHz, Infiniband HDR,",Maru,Korea Meteorological Administration,"3,06,432",18,25.5,"3,296"
+33,"IBM
+                
+                
+                    France","- IBM Power System AC922, IBM POWER9 18C 3.45GHz, Dual-rail Mellanox EDR Infiniband, NVIDIA Volta GV100,",PANGEA III,Total Exploration Production,"2,91,024",17.86,25.03,"1,367"
+34,"Nvidia
+                
+                
+                    United States","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Infiniband HDR,",HiPerGator AI,University of Florida,"1,38,880",17.2,21.31,583
+35,"Fujitsu
+                
+                
+                    Japan","- PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D,",TOKI-SORA,Japan Aerospace eXploration Agency,"2,76,480",16.59,19.46,
+36,"Microsoft Azure
+                
+                
+                    United States","- NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR,",Pioneer-EUS,Azure East US,"1,57,440",16.59,24.56,
+37,"Microsoft Azure
+                
+                
+                    United States","- NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR,",Pioneer-SCUS,Azure South Central US,"1,57,440",16.59,24.56,
+38,"Microsoft Azure
+                
+                
+                    Netherlands","- NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR,",Pioneer-WEU,Azure West Europe,"1,57,440",16.59,24.56,
+39,"Microsoft Azure
+                
+                
+                    United States","- NDv4 cluster, AMD EPYC 7V12 48C 2.45GHz, NVIDIA A100, Infiniband HDR,",Pioneer-WUS2,Azure West US 2,"1,57,440",16.59,24.56,
+40,"YANDEX, NVIDIA
+                
+                
+                    Russia","- YANDEX Y4N-GA1-TY25-ZB0, AMD EPYC 7702 64C 2GHz, NVIDIA A100 80GB​, Infiniband,",Galushkin,Yandex,"1,34,912",16.02,20.64,
+41,"HPE
+                
+                
+                    United States","- Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ,",Cori,DOE/SC/LBNL/NERSC,"6,22,336",14.01,27.88,"3,939"
+42,"HPE
+                
+                
+                    South Korea","- Cray CS500, Intel Xeon Phi 7250 68C 1.4GHz, Intel Omni-Path,",Nurion,Korea Institute of Science and Technology Information,"5,70,020",13.93,25.71,
+43,"NVIDIA, Inspur
+                
+                
+                    Russia","- Inspur NF5488A5, AMD EPYC 7662 64C 2GHz, NVIDIA A100 40GB, Infiniband,",Lyapunov,Yandex,"1,30,944",12.81,20.03,
+44,"HPE
+                
+                
+                    Italy","- Proliant DL380 Gen10, Xeon Platinum 8160  24C 2.1GHz, Mellanox InfiniBand EDR, NVIDIA Tesla P100,",HPC4,Eni S.p.A.,"2,53,600",12.21,18.62,"1,320"
+45,"Atos
+                
+                
+                    France","- Bull Sequana X1000, Intel Xeon Phi 7250 68C 1.4GHz, Bull BXI 1.2,",Tera-1000-2,Commissariat a l'Energie Atomique (CEA),"5,61,408",11.97,23.4,"3,178"
+46,"Nvidia
+                
+                
+                    Russia","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 80GB​, Infiniband,",Christofari Neo,SberCloud,"98,208",11.95,14.91,
+47,"DELL EMC
+                
+                
+                    United States","- PowerEdge C6320P/C6420, Intel Xeon Phi 7250 68C 1.4GHz/Platinum 8160, Intel Omni-Path,",Stampede2,Texas Advanced Computing Center/Univ. of Texas,"3,67,024",10.68,18.31,
+48,"Atos
+                
+                
+                    Luxembourg","- BullSequana XH2000, AMD EPYC 7452 32C 2.35GHz, NVIDIA A100 40GB, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite,",MeluXina - Accelerator Module,LuxProvide,"99,200",10.52,15.29,390
+49,"HPE
+                
+                
+                    United States","- HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10,",Cactus,GDIT/NOAA/WCOSS,"3,27,680",10.01,11.8,
+50,"HPE
+                
+                
+                    United States","- HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10,",Dogwood,GDIT/NOAA/WCOSS,"3,27,680",10.01,11.8,
+51,"NEC
+                
+                
+                    Japan","- SX-Aurora TSUBASA B401-8, Vector Engine Type20B 8C 1.6GHz, Infiniband HDR200,",Earth Simulator -SX-Aurora TSUBASA,Japan Agency for Marine-Earth Science and Technology,"43,776",9.99,13.45,"1,391"
+52,"Amazon Web Services
+                
+                
+                    United States","- Amazon EC2 r5.24xlarge, Xeon Platinum 8260 24C 2.4GHz, 25G Ethernet,",Amazon EC2 Instance Cluster us-east-1a,Descartes Labs,"1,72,692",9.95,15.11,
+53,"Nvidia
+                
+                
+                    United States","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 80GB​, Infiniband HDR,",NVIDIA Cambridge-1 DGX SuperPOD,NVIDIA Corporation,"79,360",9.68,12.05,
+54,"HPE
+                
+                
+                    Japan","Apollo 6500, AMD  EPYC 7543 32C 2.8GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband,",,Research Institute,"72,384",9.46,9.67,
+55,"Nvidia
+                
+                
+                    United States","- NVIDIA DGX-2H, Xeon Platinum 8174 24C 3.1GHz, NVIDIA Tesla V100, Mellanox InfiniBand EDR,",DGX SuperPOD,NVIDIA Corporation,"1,27,488",9.44,11.21,
+56,"Atos
+                
+                
+                    Germany","- BullSequana XH2000, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 40GB, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite,",JURECA Data Centric Module,Forschungszentrum Juelich (FZJ),"1,05,840",9.33,14.51,384
+57,"Fujitsu / Lenovo
+                
+                
+                    Australia","- PRIMERGY CX2570 M5, ThinkSystem SD650, Xeon Platinum 8274/8268, NVIDIA Tesla V100 SXM2, Mellanox HDR Infiniband,",Gadi,National Computational Infrastructure (NCI Australia),"2,04,032",9.26,15.14,
+58,"HPE
+                
+                
+                    United States","- HPE Apollo 9000/HPE SGI 8600, AMD EPYC 7742 64C 2.25GHz/Intel Xeon Gold 6248 20C 2.5GHz, Mellanox EDR/HDR Infiniband,",Aitken,NASA/Ames Research Center/NAS,"2,93,936",9.07,12.49,"2,010"
+59,"Quanta Computer / Taiwan Fixed Network / ASUS Cloud
+                
+                
+                    Taiwan","- QCT QuantaGrid D52G-4U/LC, Xeon Gold 6154 18C 3GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2,",Taiwania 2,National Center for High Performance Computing,"1,70,352",9,15.21,798
+60,"Atos
+                
+                
+                    Brazil","- Supermicro SYS-4029GP-TVRT, Xeon Gold 6230R 26C 2.1GHz, NVIDIA Tesla V100, Infiniband EDR,",Dragão,Petróleo Brasileiro S.A,"1,88,224",8.98,14.01,943
+61,"Lenovo
+                
+                
+                    Germany","- ThinkSystem SD650-N V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100, Mellanox HDR Infiniband,",Raven-GPU,Max-Planck-Gesellschaft MPI/IPP,"96,768",8.62,16.03,377
+62,"IBM
+                
+                
+                    United States","- IBM Power System AC922, IBM POWER9 20C 3.45GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband,",AiMOS,Rensselaer Polytechnic Institute Center for Computational Innovations (CCI),"1,30,000",8.34,11.03,512
+63,"Atos
+                
+                
+                    France","- Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox InfiniBand HDR100,",Taranis,Meteo France,"2,94,912",8.19,10.32,"1,672"
+64,"HPE
+                
+                
+                    Japan","- SGI ICE XA, IP139-SXM2, Xeon E5-2680v4 14C 2.4GHz, Intel Omni-Path, NVIDIA Tesla P100 SXM2,",TSUBAME3.0,"GSIC Center, Tokyo Institute of Technology","1,35,828",8.12,12.13,792
+65,"HPE
+                
+                
+                    United States","- Apollo 2000, Xeon Gold 6248 20C 2.5GHz, Infiniband EDR,",Roxy,Government,"1,74,720",8.12,13.98,
+66,"Lenovo
+                
+                
+                    Germany","- ThinkSystem SD650 V2, Xeon Platinum 8368 38C 2.4GHz, NVIDIA A100 40GB, Mellanox HDR Infiniband,",HoreKa-Green,Karlsruher Institut für Technologie (KIT),"90,932",8.03,15.01,359
+67,"HPE
+                
+                
+                    United States","- HPE Cray EX, AMD EPYC 7H12 64C 2.6GHz, Slingshot-10,",Narwhal,Navy DSRC,"2,76,480",8.02,11.5,
+68,"NEC
+                
+                
+                    Japan","- SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, Infiniband HDR 200,",Plasma Simulator,National Institute for Fusion Science (NIFS),"34,560",7.89,10.51,"1,550"
+69,"Lenovo
+                
+                
+                    Canada","- ThinkSystem SD650-N V2, Xeon Platinum 8380 40C 2.3GHz, Infiniband HDR,",Underhill,Shared Services Canada,"1,48,320",7.76,10.92,"1,295"
+70,"Lenovo
+                
+                
+                    Canada","- ThinkSystem SD650-N V2, Xeon Platinum 8380 40C 2.3GHz, Infiniband HDR,",Robert,Shared Services Canada,"1,48,320",7.76,10.92,"1,295"
+71,"Atos
+                
+                
+                    France","- Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox HDR100,",Belenos,Meteo France,"2,94,912",7.68,10.47,"1,655"
+72,"HPE
+                
+                
+                    Germany","- Apollo 6500, AMD EPYC 7F52 16C 3.5GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband,",alpha ONE,Aleph Alpha,"57,344",7.62,7.86,
+73,"HPE
+                
+                
+                    United States","- Apollo 2000, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR,",PupMaya,Government,"1,69,920",7.48,12.9,
+74,"Nvidia
+                
+                
+                    United Arab Emirates","- NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, Infiniband EDR, NVIDIA Tesla V100,",Artemis,Group 42,"1,07,568",7.26,9.49,673
+75,"HPE
+                
+                
+                    United Kingdom","Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,",,United Kingdom Meteorological Office,"2,41,920",7.04,8.13,
+76,"Atos
+                
+                
+                    Germany","- BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR100,",Levante,DKRZ - Deutsches Klimarechenzentrum,"3,08,096",7,10.28,
+77,"Atos
+                
+                
+                    France","- Bull Sequana XH2000 , AMD Rome 7H12 64C 2.6GHz, Mellanox HDR100,",JOLIOT-CURIE ROME,CEA/TGCC-GENCI,"1,97,120",6.99,12.04,"1,436"
+78,"HPE
+                
+                
+                    United States","- Cray XC40, Intel Xeon Phi 7230 64C 1.3GHz, Aries interconnect ,",Theta,DOE/SC/Argonne National Laboratory,"2,80,320",6.92,11.66,
+79,"HPE
+                
+                
+                    Czechia","- Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR200,","Karolina, GPU partition","IT4Innovations National Supercomputing Center, VSB-Technical University of Ostrava","71,424",6.75,9.08,311
+80,"Nvidia
+                
+                
+                    Russia","- NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100,",Christofari,SberCloud,"99,600",6.67,8.79,
+81,"Fujitsu
+                
+                
+                    Japan","- PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D,",Flow,"Information Technology Center, Nagoya University","1,10,592",6.62,7.79,
+82,"Lenovo
+                
+                
+                    Spain","- Lenovo SD530, Xeon Platinum 8160 24C 2.1GHz, Intel Omni-Path,",MareNostrum,Barcelona Supercomputing Center,"1,53,216",6.47,10.3,"1,632"
+83,"HPE
+                
+                
+                    United States","- Cray XC40, Xeon E5-2699v4  22C 2.2GHz, Aries interconnect ,",ONYX,ERDC DSRC,"2,11,816",6.32,7.46,
+84,"HPE
+                
+                
+                    Finland","- HPE Cray EX, AMD EPYC 7763 64C 2.45GHz, Slingshot-10,",LUMI-C,EuroHPC/CSC,"1,94,560",6.3,7.63,"1,216"
+85,"HPE
+                
+                
+                    South Korea","- Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband,",Titan,SKT,"56,544",6.29,7.19,
+86,"Atos
+                
+                
+                    Germany","- Bull Sequana X1000, Xeon Platinum 8168 24C 2.7GHz, Mellanox EDR InfiniBand/ParTec ParaStation ClusterSuite,",JUWELS Module 1,Forschungszentrum Juelich (FZJ),"1,14,480",6.18,9.89,"1,361"
+87,"HPE
+                
+                
+                    Japan","HPE SGI 8600, Xeon Gold 6248R 24C 3GHz, NVIDIA Tesla V100 SXM2, Infiniband EDR,",,Japan Atomic Energy Agency(JAEA)/ National Institutes for Quantum and Radiological Science and Technology(QST),"1,00,096",6.16,8.44,
+88,"NEC
+                
+                
+                    Japan","- NEC LX 103Bj-8, Xeon Platinum 8368 38C 2.4GHz, Infiniband HDR200,",SQUID - CPU Nodes,Osaka University,"1,15,520",6.11,8.87,"1,222"
+89,"Atos
+                
+                
+                    Germany","- Bull intel Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Intel Omni-Path,",Lise,HLRN at ZIB/Konrad Zuse-Zentrum Berlin,"1,21,920",6.05,8.93,
+90,"HPE
+                
+                
+                    United States","- SGI ICE X, Intel Xeon E5-2670/E5-2680v2/E5-2680v3/E5-2680v4  2.6/2.8/2.5/2.4 GHz, Infiniband FDR,",Pleiades,NASA/Ames Research Center/NAS,"2,41,108",5.95,7.11,"4,407"
+91,"Atos
+                
+                
+                    Germany","- BullSequana X, Intel Xeon Platinum 9242/Gold 6148, Intel Omni-Path,",Emmy+,HLRN+ at GWDG/University of Göttingen,"1,20,296",5.95,8.91,
+92,"DELL EMC
+                
+                
+                    Canada","- PowerEdge XE8545, AMD EPYC 7413 24C 2.65GHz, NVIDIA A100, InfiniBand HDR100,",Narval (GPU),Calcul Québec/Compute Canada,"76,320",5.89,12.17,311
+93,"HPE
+                
+                
+                    United States","- HPE SGI 8600, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR/HDR ,",Sawtooth,Idaho National Laboratory,"99,792",5.78,9.22,"1,432"
+94,"Cray Inc./Hitachi
+                
+                
+                    Japan","Cray XC50, Xeon Platinum 8160  24C 2.1GHz, Aries interconnect ,",,Japan Meteorological Agency,"1,35,792",5.73,9.13,"1,354"
+95,"Cray Inc./Hitachi
+                
+                
+                    Japan","Cray XC50, Xeon Platinum 8160  24C 2.1GHz, Aries interconnect ,",,Japan Meteorological Agency,"1,35,792",5.73,9.13,"1,354"
+96,"Intel
+                
+                
+                    Germany","- Intel Compute Module HNS2600BP, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,",COBRA,Max-Planck-Gesellschaft MPI/IPP,"1,27,520",5.61,9.79,"1,635"
+97,"HPE
+                
+                
+                    Saudi Arabia","- Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ,",Shaheen II,King Abdullah University of Science and Technology,"1,96,608",5.54,7.24,"2,834"
+98,"HPE
+                
+                
+                    United States","- HPE SGI 8600/SGI ICE-X, E5-2680V4/ Xeon Gold 6148 20C 2.4GHz, Infiniband EDR/FDR-56 IB,",Electra,NASA/Ames Research Center/NAS,"1,24,416",5.44,8.32,"1,686"
+99,"Lenovo
+                
+                
+                    Germany","- ThinkSystem SD650 V2, Xeon Platinum 8360Y 36C 2.4GHz, InfiniBand HDR 100,",Raven,Max-Planck-Gesellschaft MPI/IPP,"1,14,624",5.42,8.8,
+100,"Atos
+                
+                
+                    Finland","- Bull Sequana XH2000 , AMD Rome 7H12 64C 2.6GHz, Mellanox HDR100,",MAHTI,CSC (Center for Scientific Computing),"1,69,728",5.39,7.06,"1,070"
+101,"HPE
+                
+                
+                    France","- SGI ICE X, Xeon Xeon E5-2670/ E5-2680v3 12C 2.5GHz, Infiniband FDR,",Pangea,Total Exploration Production,"2,20,800",5.28,6.71,"4,150"
+102,"Atos
+                
+                
+                    Sweden","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Infiniband HDR,",Berzelius,National Supercomputer Centre (NSC),"59,520",5.25,9.64,
+103,"Atos
+                
+                
+                    United Kingdom","- BullSequana XH2000, AMD EPYC 7302 32C 3GHz, NVIDIA A100 40GB, Mellanox HDR Infiniband,","DiRAC, Tursa",University of Edinburgh,"55,552",5.23,8.58,244
+104,"HPE
+                
+                
+                    United States","- Apollo 2000, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, Intel Omni-Path,",TX-GAIA (Green AI Accelerator),MIT Lincoln Laboratory Supercomputing Center,"88,400",5.16,6.98,"1,436"
+105,"Format sp. z o.o.
+                
+                
+                    Poland","- FormatServer THOR ERG21, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR,",Athena,Cyfronet,"47,616",5.05,7.71,147
+106,"Nvidia
+                
+                
+                    United States","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband,",BioHive-1,Recursion,"39,680",4.9,5.71,
+107,"Fujitsu
+                
+                
+                    Japan","- PRIMERGY CX2570 M5, Xeon Gold 6230 20C 2.1GHz, NVIDIA Tesla V100 SXM2, Infiniband EDR,",Flow Type II subsystem,"Information Technology Center, Nagoya University","79,560",4.88,7.52,
+108,"HPE
+                
+                
+                    United States","- HPE SGI 8600, Xeon Gold 6154 18C 3GHz, EDR Infiniband/ 8D Hypercube,",Eagle,National Renewable Energy Laboratory,"75,600",4.85,7.26,
+109,"HPE
+                
+                
+                    United States","- SGI ICE XA, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR,",Cheyenne,National Center for Atmospheric Research (NCAR),"1,44,900",4.79,5.33,"1,727"
+110,"Atos
+                
+                
+                    Norway","- Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox HDR Infiniband,",Betzy,UNINETT Sigma2 AS,"1,72,032",4.72,6.19,
+111,"Atos
+                
+                
+                    India","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband,",PARAM Siddhi-AI,Center for Development of Advanced Computing (C-DAC),"41,664",4.62,5.27,
+112,"Fujitsu
+                
+                
+                    Japan","- Fujitsu PRIMERGY CX2550/CX2560 M4, Xeon Gold 6154 18C 3GHz, Mellanox InfiniBand EDR,",ITO - Subsystem A,"Research Institute for Information Technology, Kyushu University","72,000",4.54,6.91,
+113,"Atos
+                
+                
+                    Bulgaria","- BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Infiniband HDR,",Discoverer,Consortium Petascale Supercomputer Bulgaria,"1,44,384",4.52,5.94,
+114,"HPE
+                
+                
+                    France","- HPE SGI 8600, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100 SXM2, Intel Omni-Path,",Jean Zay,CNRS/IDRIS-GENCI,"93,960",4.48,7.35,
+115,"Fujitsu
+                
+                
+                    Japan","- PRIMERGY GX2570 M6, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR,",Wisteria/BDEC-01 (Aquarius),"Information Technology Center, The University of Tokyo","42,120",4.42,7.27,184
+116,"Atos
+                
+                
+                    Brazil","- Bull 4029GP-TVRT, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR,",Atlas,Petróleo Brasileiro S.A,"91,936",4.38,8.85,547
+117,"Sugon
+                
+                
+                    China","- Sugon TC8600, Hygon Dhyana  32C 2GHz, Deep Computing Processor, 200Gb 6D-Torus,",Advanced Computing System(PreE),Sugon,"1,63,840",4.33,6.13,380
+118,"Atos
+                
+                
+                    France","- BullSequana X, Xeon Platinum 8260 24C 2.4GHz, Infiniband HDR,",CRONOS,EDF,"81,600",4.3,7.14,"1,226"
+119,"Fujitsu
+                
+                
+                    Japan","- Fujitsu PRIMERGY CX2550/CX2560 M5, Xeon Platinum 8280 28C 2.7GHz, Intel Omni-Path,",Oakbridge-CX,"Information Technology Center, The University of Tokyo","76,608",4.29,6.62,845
+120,"Penguin Computing, Inc.
+                
+                
+                    United States","- Tundra Extreme Scale, Xeon Platinum 8268 24C 2.9GHz, Intel Omni-Path,",SNL/NNSA CTS-1 Manzano,Sandia National Laboratories,"71,424",4.28,6.63,960
+121,"Atos
+                
+                
+                    Germany","- BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR100,",Noctua 2,Universitaet Paderborn – PC2,"1,35,168",4.19,5.3,869
+122,"HPE
+                
+                
+                    Japan","Apollo 6500 XL270d Gen10, Xeon Gold 6140 18C 2.3GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2,",,Research Institute,"70,416",4.13,5.78,
+123,"HPE
+                
+                
+                    United States","- HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11,",rzVernal,DOE/NNSA/LLNL,"35,872",4.1,6.93,
+124,"Atos
+                
+                
+                    France","- Bull Sequana X1000, Xeon Platinum 8168 24C 2.7GHz, Mellanox EDR,",JOLIOT-CURIE SKL,CEA/TGCC-GENCI,"79,488",4.07,6.64,917
+125,"HPE
+                
+                
+                    United States","- Cray XC30, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ,",Abel,Petroleum Geo-Services,"1,45,920",4.04,5.37,"1,800"
+126,"HPE
+                
+                
+                    United States","- HPE Cray EX, AMD EPYC 7H12 64C 2.6GHz, Slingshot-10,",Warhawk,Air Force Research Laboratory,"1,29,920",4.03,5.4,
+127,"Nvidia
+                
+                
+                    United States","- NVIDIA DGX-1 Volta36, Xeon E5-2698v4 20C 2.2GHz, NVIDIA Tesla V100, Infiniband EDR,",DGX Saturn V,NVIDIA Corporation,"87,040",4,7.41,
+128,"HPE
+                
+                
+                    United Kingdom","Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,",,ECMWF,"1,26,468",3.94,4.25,"1,897"
+129,"HPE
+                
+                
+                    United Kingdom","Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,",,ECMWF,"1,26,468",3.94,4.25,"1,897"
+130,"NEC
+                
+                
+                    Germany","SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, InfiniBand HDR 100,",,Deutscher Wetterdienst,"18,688",3.87,5.61,648
+131,"Atos
+                
+                
+                    Slovenia","- BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Mellanox InfiniBand HDR100,",VEGA HPC CPU,IZUM,"1,22,880",3.82,5.37,
+132,"HPE
+                
+                
+                    India","- Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,",Pratyush,Indian Institute of Tropical Meteorology,"1,19,232",3.76,4.01,"1,353"
+133,"HPE
+                
+                
+                    Japan","Apollo 6500 XL270d Gen10, Xeon Gold 6150/6152 18C 2.7GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2,",,SAKURA Internet Inc. / Prunus Solutions Inc.,"65,208",3.71,5.37,
+134,"Supermicro
+                
+                
+                    United States","- Supermicro SYS-2029TP-HTR, Xeon Platnium 8276L 28C 2.2GHz, Cornelis Networks Omni-Path,",LLNL Ruby,Lawrence Livermore National Laboratory,"85,568",3.7,6.02,
+135,"HPE
+                
+                
+                    United States","- HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11,",Tioga,DOE/NNSA/LLNL,"30,208",3.67,5.83,
+136,"DELL EMC
+                
+                
+                    United States","- PowerEdge C6420, Xeon Gold 6148 20C 2.4GHz, Infiniband HDR,",Orion,Mississippi State University,"70,560",3.67,5.42,
+137,"Nvidia
+                
+                
+                    Brazil","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 SXM4 40 GB, Infiniband,",IARA,SiDi,"24,800",3.66,4.13,
+138,"Lenovo
+                
+                
+                    China","ThinkSystem SD650 V2, Xeon Platinum 8358 32C 2.6GHz, Mellanox HDR Infiniband,",,Shanghai Jiao Tong University,"59,392",3.66,4.94,
+139,"HPE
+                
+                
+                    United States","- HP ProLiant XL170r/XL190r/DL360 Gen10, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path, NVIDIA Tesla P100,",Joule 2.0,DOE/National Energy Technology Laboratory,"86,400",3.61,5.75,
+140,"Lenovo
+                
+                
+                    Canada","- ThinkSystem SD530, Xeon Gold 6248 20C 2.5GHz, InfiniBand HDR100,",Niagara,SciNet/University of Toronto/Compute Canada,"80,640",3.6,6.25,919
+141,"HPE
+                
+                
+                    United States","Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40,",,Government,"72,800",3.58,6.13,"1,499"
+142,"HPE
+                
+                
+                    United States","Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40,",,Government,"72,800",3.58,6.13,"1,499"
+143,"DELL EMC
+                
+                
+                    United States","- PowerEdge 6525, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR 100,",Anvil,Purdue University,"1,27,488",3.56,5,792
+144,"Lenovo
+                
+                
+                    United States","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B1A,Software Company MUS,"80,640",3.55,6.97,
+145,"Huawei Technologies Co., Ltd.
+                
+                
+                    Poland","- CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR,",Altair,PCSS Poznan,"63,360",3.53,5.88,829
+146,"Atos
+                
+                
+                    France","- BullSequana XH2000, Xeon Platinum 8358 32C 2.6GHz, NVIDIA A100, Infiniband HDR,",ATOS THX.A.B,Atos,"25,056",3.5,5,86
+147,"HPE
+                
+                
+                    Saudi Arabia","- Cray CS500, Xeon Gold 6248 20C 2.5GHz, 10G Ethernet,",Unizah-II,Saudi Aramco,"85,560",3.49,6.84,
+148,"DELL EMC
+                
+                
+                    Japan","- PowerEdge C6525, AMD EPYC 7702 64C 2GHz, Mellanox HDR Infiniband,",Ohtaka,"The Institute for Solid State Physics, The University of Tokyo","2,15,040",3.49,6.88,
+149,"NEC
+                
+                
+                    Germany","- NEC HPC2808Ri-2, AMD EPYC 7702 64C 2GHz, InfiniBand HDR100,",CARO,German Aerospace Center,"1,74,592",3.46,5.59,
+150,"Atos
+                
+                
+                    Italy","- BullSequana X, AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR Infiniband,",davinci-1,Leonardo SpA,"38,400",3.45,6.41,
+151,"ACTION
+                
+                
+                    Canada","- PowerEdge C6420, Xeon Silver 4216 16C 2.1GHz, NVIDIA Tesla V100, Intel Omni-Path,",Cedar (GPU),Simon Fraser University/Compute Canada,"67,584",3.37,5.83,310
+152,"HPE
+                
+                
+                    United States","- SGI ICE X, Xeon E5-2699v3 18C 2.3GHz, Infiniband FDR,",Topaz,ERDC DSRC,"1,24,200",3.32,4.57,"5,175"
+153,"Self-made
+                
+                
+                    United States","NVIDIA DGX-1/Relion 2904GT, Xeon E5-2698v4 20C 2.2GHz/ E5-2650v4, Infiniband EDR, NVIDIA Tesla P100/Quadro GP100,",,Facebook,"60,512",3.31,4.9,350
+154,"Atos
+                
+                
+                    France","- BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, InfiniBand HDR100,",Topaze-cpu,Commissariat a l'Energie Atomique (CEA)/CCRT,"1,10,592",3.26,4.34,
+155,"NEC
+                
+                
+                    Germany","SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, Mellanox InfiniBand HDR100,",,Deutscher Wetterdienst,"14,336",3.25,4.28,565
+156,"Atos
+                
+                
+                    United Kingdom","- Bull Sequana X1000, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR,",Damson,AWE,"1,13,832",3.24,3.79,"1,134"
+157,"Penguin Computing, Inc.
+                
+                
+                    United States","- Relion Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Intel Omni-Path,",LLNL/NNSA CTS-1 MAGMA,Lawrence Livermore National Laboratory,"62,400",3.24,4.59,887
+158,"HPE
+                
+                
+                    United States","- HPE SGI 8600, Xeon Platinum 8168 24C 2.7GHz, Intel Omni-Path,",Mustang,Air Force Research Laboratory,"55,296",3.22,4.78,
+159,"HPE
+                
+                
+                    United States","- HPE Cray EX235n, AMD EPYC 7713 64C 2GHz, NVIDIA A100, Slingshot-10,","Big Red 200, GPU Partition",Indiana University,"31,744",3.19,4.01,
+160,"IBM
+                
+                
+                    Italy","- iDataPlex DX360M4, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband FDR, NVIDIA K20x,",HPC2,Eni S.p.A.,"72,000",3.19,4.61,"1,227"
+161,"Atos
+                
+                
+                    Brazil","- Bull 4029GP-TVRT, Xeon Gold 5122 4C 3.6GHz, NVIDIA Tesla V100, Infiniband EDR,",Fênix,Petróleo Brasileiro S.A,"60,480",3.16,5.37,390
+162,"DELL EMC
+                
+                
+                    Morocco","- PowerEdge C6420, CRC-StackHPC, Xeon Platnium 8276L 28C 2.2GHz, Mellanox InfiniBand HDR100,",Toubkal,Mohammed VI Polytechnic University - African Supercomputing Centre,"71,232",3.16,5.01,
+163,"Lenovo
+                
+                
+                    United States","ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",,Software Company MUS,"71,680",3.15,6.19,
+164,"Lenovo
+                
+                
+                    United States","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B5A,Software Company MUS,"71,680",3.15,6.19,
+165,"MEGWARE
+                
+                
+                    Germany","- MEGWARE MiriQuid, Intel Xeon Platinum 9242 48C 2.3GHz, Mellanox InfiniBand HDR100,",Lichtenberg II (Phase 1),Technische Universitaet Darmstadt,"59,136",3.15,4.35,690
+166,"HPE
+                
+                
+                    United States","Cray XC30, Intel Xeon E5-2697v2 12C 2.7GHz, Aries interconnect ,",,Government,"2,25,984",3.14,4.88,"6,328"
+167,"Lenovo
+                
+                
+                    Singapore","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A1C,Software Company MSG,"92,160",3.13,6.19,
+168,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A5A,Software Company MUS,"92,160",3.13,6.19,
+169,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A1A,Software Company MUS,"92,160",3.13,6.19,
+170,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A1A,Software Company MUS,"92,160",3.13,6.19,
+171,"HPE
+                
+                
+                    United States","- SGI ICE X, Xeon E5-2699v3/E5-2697 v3, Infiniband FDR, NVIDIA Tesla K40, Intel Xeon Phi 7120P,",Thunder,Air Force Research Laboratory,"1,52,692",3.13,5.61,"4,820"
+172,"Atos
+                
+                
+                    Slovenia","- BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, NVIDIA A100, Infiniband HDR,",VEGA HPC GPU,IZUM,"33,600",3.1,4.68,
+173,"Lenovo
+                
+                
+                    China","Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",,Service Provider T,"76,000",3.09,6.08,
+174,"HPE
+                
+                
+                    Switzerland","- HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10,",Alps,Swiss National Supercomputing Centre (CSCS),"1,28,000",3.09,4.61,638
+175,"HPE
+                
+                
+                    Japan","- HPE SGI 8600, Xeon Platinum 8268 24C 2.9GHz, Dual-rail Intel Omni-Path,",Numerical Materials Simulator,National Institute for Materials Science,"53,568",3.08,4.97,691
+176,"HPE
+                
+                
+                    United States","- Cray CS500, Xeon Gold 6148 20C 2.4GHz, Infiniband HDR,",Hera,NOAA Environmental Security Computer Center,"63,840",3.08,4.88,
+177,"HPE
+                
+                
+                    Japan","- Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ,",Camphor 2,"Academic Center for Computing and Media Studies (ACCMS),  Kyoto University","1,22,400",3.06,5.48,748
+178,"HPE
+                
+                
+                    France","- HPE SGI 8600, Xeon Gold 6248 20C 2.5GHz, Intel Omni-Path,",Jean Zay,CNRS/IDRIS-GENCI,"61,120",3.05,4.87,
+179,"Atos
+                
+                
+                    Germany","- bullx DLC 720, Xeon E5-2680v3 12C 2.5GHz/E5-2695V4 18C  2.1Ghz, Infiniband FDR,",Mistral,DKRZ - Deutsches Klimarechenzentrum,"99,072",3.01,3.96,"1,116"
+180,"Lenovo
+                
+                
+                    China","Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",,Service Provider T,"73,600",2.99,5.89,
+181,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",HHH1,Service Provider T,"80,640",2.98,6.45,
+182,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",III1,Service Provider T,"79,680",2.98,6.37,
+183,"ClusterVision / Hammer
+                
+                
+                    Sweden","- Intel H2204XXLRE, Xeon Gold 6130 16C 2.1GHz, Intel Omni-Path,",Tetralith,National Supercomputer Centre (NSC),"64,512",2.97,4.34,
+184,"MEGWARE
+                
+                
+                    Germany","- MEGWARE NF5488A5, AMD EPYC 7713 64C 2GHz, NVIDIA A100 SXM4 80 GB, Infiniband HDR,",Alex,Universitaet Erlangen - Regionales Rechenzentrum Erlangen,"31,744",2.94,4.99,141
+185,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",JJJ1,Service Provider T,"78,720",2.93,6.3,
+186,"Lenovo
+                
+                
+                    China","Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",,Service Provider T,"72,000",2.93,5.76,
+187,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A9A,Software Company MUS,"86,016",2.92,5.78,
+188,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A6A,Software Company MUS,"86,016",2.92,5.78,
+189,"Liqid
+                
+                
+                    United States","- Liqid Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Infiniband HDR,",Jean,Army Research Laboratory DoD Supercomputing Resource Center (ARL DSRC),"55,296",2.92,4.07,
+190,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",KKK1,Service Provider T,"77,760",2.91,6.22,
+191,"Inspur
+                
+                
+                    China","Inspur TS10000 HPC Server, Xeon Gold 6248R 24C 3GHz, InfiniBand HDR 100,",,Central South University,"49,056",2.89,4.71,
+192,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",LLL1,Service Provider T,"76,800",2.88,6.14,
+193,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6230R 26C 2.1GHz, 10G Ethernet,",,Service Provider K,"93,600",2.87,6.29,
+194,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A8A,Software Company MUS,"84,480",2.87,5.68,
+195,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A8A,Software Company MUS,"84,480",2.87,5.68,
+196,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A3A,Software Company MUS,"84,480",2.87,5.68,
+197,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A14A,Software Company MUS,"84,480",2.87,5.68,
+198,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6238 22C 2.1GHz, 10G Ethernet,",,Financial Services P,"94,160",2.87,6.33,
+199,"HPE
+                
+                
+                    Singapore","- HPE Cray EX235n, AMD EPYC 7713 64C 2GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10,",ASPIRE 2A (GPU Partition),National Supercomputing Centre Singapore,"31,744",2.86,5.12,
+200,"HPE
+                
+                
+                    United States","- HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11,",Tenaya,DOE/NNSA/LLNL,"22,656",2.86,4.37,
+201,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",MMM1,Service Provider T,"75,840",2.86,6.07,
+202,"HPE
+                
+                
+                    Czechia","- Apollo 2000, AMD EPYC 7H12 64C 2.6GHz, InfiniBand HDR 100,","Karolina, CPU partition","IT4Innovations National Supercomputing Center, VSB-Technical University of Ostrava","92,160",2.84,3.83,503
+203,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",NNN1,Service Provider T,"74,880",2.83,5.99,
+204,"HPE
+                
+                
+                    United States","- Cray CS500, AMD EPYC 7542 32C 2.9GHz, Mellanox InfiniBand HDR100,",Freeman,ERDC DSRC,"79,104",2.83,3.67,
+205,"Lenovo/IBM
+                
+                
+                    Germany","- NeXtScale nx360M5, Xeon E5-2697v3 14C 2.6GHz, Infiniband FDR14,",SuperMUC Phase 2,Leibniz Rechenzentrum,"86,016",2.81,3.58,"1,481"
+206,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",OOO1,Service Provider T,"73,920",2.8,5.91,
+207,"HPE
+                
+                
+                    United Kingdom","Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,",,United Kingdom Meteorological Office,"89,856",2.8,3.02,"1,348"
+208,"HPE
+                
+                
+                    United Kingdom","Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,",,United Kingdom Meteorological Office,"89,856",2.8,3.02,"1,348"
+209,"HPE
+                
+                
+                    Japan","- Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ,",JFRS-1,"Rokkasho Fusion Institute, National Institutes for Quantum and Radiological Science and Technology","54,560",2.79,4.19,698
+210,"Lenovo
+                
+                
+                    China","Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",,Service Provider T,"68,000",2.78,5.44,
+211,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet,",,Service Provider T,"72,960",2.77,5.84,
+212,"Atos
+                
+                
+                    France","- BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, Mellanox InfiniBand HDR100,",Spartan3,Atos,"92,160",2.75,3.61,
+213,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet,",ZZ2,Service Provider T,"67,200",2.75,5.38,
+214,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 25G Ethernet,",,Service Provider T,"66,400",2.75,5.31,
+215,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR,",,Government,"59,976",2.74,5.35,
+216,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet,",,Service Provider T,"72,000",2.74,5.76,
+217,"Atos
+                
+                
+                    France","- BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100, Mellanox HDR Infiniband,",Topaze-gpu,Commissariat a l'Energie Atomique (CEA)/CCRT,"26,880",2.74,3.74,
+218,"Lenovo
+                
+                
+                    Austria","- ThinkSystem SD650, Xeon Platinum 8174 24C 3.1GHz, Intel Omni-Path,",VSC-4,Vienna Scientific Cluster,"37,920",2.73,3.76,
+219,"Penguin Computing, Inc.
+                
+                
+                    United States","- Tundra Extreme Scale, Xeon Gold 6140 18C 2.3GHz, Intel Omni-Path,",SNL/NNSA CTS-1 Attaway,Sandia National Laboratories,"52,920",2.72,3.89,750
+220,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet,",ZZ3,Service Provider T,"66,400",2.72,5.31,
+221,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet,",,Service Provider T,"71,040",2.71,5.68,
+222,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet,",ZZ4,Service Provider T,"65,600",2.69,5.25,
+223,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet,",,Service Provider T,"70,080",2.68,5.61,
+224,"HPE
+                
+                
+                    Canada","- Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ,",Banting,Shared Services Canada,"53,200",2.68,4.09,
+225,"Nvidia
+                
+                
+                    United States","- NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, NVIDIA Tesla V100, Mellanox InfiniBand EDR,",Hypercluster,Microsoft Research,"47,808",2.67,4.22,
+226,"HPE
+                
+                
+                    Hungary","- HPE Cray EX, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-11,",Komondor,Governmental Information-Technology Development Agency (KIFÜ),"24,800",2.66,3.15,
+227,"Lenovo
+                
+                
+                    Canada","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A14A,Software Company MCA,"78,336",2.66,5.26,
+228,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 10G Ethernet,",ZZ5,Service Provider T,"64,800",2.66,5.18,
+229,"Lenovo
+                
+                
+                    China","- ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet,",ZZ6,Service Provider T,"69,120",2.65,5.53,
+230,"Lenovo
+                
+                
+                    China","ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet,",,Cloud Company,"1,28,000",2.65,4.71,
+231,"DELL EMC
+                
+                
+                    United States","- PowerEdge R640/R740/R840, Xeon Gold 6248R/6248R/6248, 24C 3.0GHz, InfiniBand HDR100,",Grace,Texas A&M University,"43,200",2.64,4.83,
+232,"Penguin Computing, Inc.
+                
+                
+                    United States","- Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,",LLNL/NNSA CTS-1 Jade,Lawrence Livermore National Laboratory,"95,472",2.63,3.21,"13,620"
+233,"Penguin Computing, Inc.
+                
+                
+                    United States","- Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,",LLNL CTS-1 Quartz,Lawrence Livermore National Laboratory,"95,472",2.63,3.21,"13,620"
+234,"Lenovo
+                
+                
+                    China","Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",,Service Provider T,"64,000",2.62,5.12,
+235,"Inspur
+                
+                
+                    China","Inspur TS10000, Xeon Gold 6258R 28C 2.7GHz, InfiniBand HDR100,",,Tsinghua University,"50,400",2.61,4.35,
+236,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A7A,Software Company MUS,"76,800",2.61,5.16,
+237,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A7A,Software Company MUS,"76,800",2.61,5.16,
+238,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A1B,Software Company MUS,"76,800",2.61,5.16,
+239,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet,",,Service Provider T,"68,160",2.61,5.45,
+240,"ACTION
+                
+                
+                    Canada","- PowerEdge C6420, Xeon Platinum 8160  24C 2.1GHz, Intel Omni-Path,",Cedar (CPU),Simon Fraser University/Compute Canada,"67,584",2.61,4.9,792
+241,"HPE
+                
+                
+                    Canada","- Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ,",Daley,Shared Services Canada,"53,200",2.6,4.09,
+242,"NEC
+                
+                
+                    Germany","- NEC HPC 22S8Ri-4, EPYC 7352 24C 2.3GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR200,",AlphaCentauri,"TU Dresden, ZIH","31,008",2.59,5.36,164
+243,"Lenovo
+                
+                
+                    Italy","- Lenovo NeXtScale nx360M5, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR, NVIDIA Tesla K80,",HPC3,Energy Company (A),"66,000",2.59,3.8,
+244,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 25G Ethernet,",,Service Provider T,"62,400",2.59,4.99,
+245,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",,Service Provider T,"64,320",2.58,5.15,
+246,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6230R 26C 2.1GHz, 10G Ethernet,",,Service Provider K,"83,200",2.58,5.59,
+247,"HPE
+                
+                
+                    Singapore","- HPE Cray EX425, AMD EPYC 7713 64C 2GHz, Slingshot-10,",ASPIRE 2A (CPU Partition),National Supercomputing Centre Singapore,"98,304",2.58,3.11,
+248,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet,",,Service Provider T,"67,200",2.57,5.38,
+249,"HPE
+                
+                
+                    India","- Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,",Mihir,National Centre for Medium Range Weather Forecasting,"83,592",2.57,2.81,955
+250,"NUDT
+                
+                
+                    China","- NUDT YH MPP, Xeon X5670 6C 2.93 GHz, NVIDIA 2050,",Tianhe-1A,National Supercomputing Center in Tianjin,"1,86,368",2.57,4.7,"4,040"
+251,"Atos
+                
+                
+                    France","- Bull Sequana XH2000 , AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR Infiniband,",Spartan2,Atos,"23,040",2.57,3.85,106
+252,"Sugon
+                
+                
+                    China","- Sugon TC4600LP/W740I, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR, NVIDIA Tesla P100,",PAI-BSystem,China Meteorological Administration,"50,816",2.55,4.23,710
+253,"Atipa Technology
+                
+                
+                    United States","- Atipa Visione IF442 Blade Server, Xeon E5-2670 8C 2.600GHz, Infiniband FDR, Intel Xeon Phi 5110P,",cascade,DOE/SC/Pacific Northwest National Laboratory,"1,94,616",2.54,3.39,"1,384"
+254,"DELL EMC
+                
+                
+                    United States","- PowerEdge XE8545, AMD EPYC 7713 64C 2GHz, NVIDIA A100 80GB​, Infiniband HDR200 dual rail,",Rattler,Dell Technologies HPC & AI Innovation Lab,"26,880",2.53,3.94,
+255,"Atos
+                
+                
+                    France","- bullx DLC 720, Xeon E5-2690v4 14C 2.6GHz, Infiniband FDR,",occigen2,Grand Equipement National de Calcul Intensif - Centre Informatique National de l'Enseignement Suprieur (GENCI-CINES),"85,824",2.49,3.57,"1,430"
+256,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",,Service Provider T,"61,440",2.49,4.92,
+257,"HPE
+                
+                
+                    United States","- Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ,",Excalibur,Army Research Laboratory DoD Supercomputing Resource Center (ARL DSRC),"1,00,064",2.48,3.68,"1,466"
+258,"NEC
+                
+                
+                    Germany","- INTEL-HNS2600BPB, Xeon Platinum 8160  24C 2.1GHz, Intel Omni-Path,",CLAIX (2018),Universitaet Aachen/RWTH - IT Center,"61,200",2.48,4.11,692
+259,"DELL EMC
+                
+                
+                    United States","- PowerEdge R6525/C6525, AMD EPYC 7742, AMD EPYC 7742 64C, Mellanox HDR Infiniband,",Expanse,UCSD/San Diego Supercomputer Center,"91,648",2.48,3.3,
+260,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6242 16C 2.8GHz, NVIDIA Tesla V100, 100G Ethernet,",,Manufacturing Industry (O),"50,400",2.48,4.68,
+261,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6242 16C 2.8GHz, NVIDIA Tesla V100, 100G Ethernet,",,Manufacturing Industry (O),"50,400",2.48,4.68,
+262,"T-Platforms
+                
+                
+                    Russia","- T-Platform A-Class Cluster, Xeon E5-2697v3 14C 2.6GHz,Intel Xeon Gold 6126, Infiniband FDR, Nvidia K40m/P-100,",Lomonosov 2,Moscow State University - Research Computing Center,"64,384",2.48,4.95,
+263,"Liqid
+                
+                
+                    United States","- Liqid Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Infiniband HDR,",Kay,Army Research Laboratory DoD Supercomputing Resource Center (ARL DSRC),"46,848",2.48,3.45,
+264,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",B1,Service Provider T,"60,000",2.46,4.8,
+265,"HPE
+                
+                
+                    United States","- SGI ICE XA, Xeon E5-2698v4 20C 2.2GHz, Infiniband EDR,",Centennial,US Army Research Laboratory (ARL),"73,920",2.44,2.6,835
+266,"Sugon
+                
+                
+                    China","- Sugon TC4600, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR,",PAI-ASystem,China Meteorological Administration,"48,128",2.44,4,740
+267,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",C1,Service Provider T,"59,200",2.43,4.74,
+268,"HPE
+                
+                
+                    United States","- HPE Cray EX425, AMD EPYC 7742 64C 2.25GHz, Slingshot-10,",Big Red 200,Indiana University,"84,480",2.43,3.04,
+269,"Lenovo
+                
+                
+                    China","ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet,",,DJIT Company,"1,15,200",2.43,4.24,
+270,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",D1,Service Provider T,"58,800",2.42,4.7,
+271,"Lenovo
+                
+                
+                    China","ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet,",,Service Provider T,"1,13,600",2.4,4.18,
+272,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",E1,Service Provider T,"58,000",2.39,4.64,
+273,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 25G Ethernet,",,Service Provider T,"58,560",2.38,4.68,
+274,"Lenovo
+                
+                
+                    China","ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet,",,Service Provider T,"1,12,000",2.37,4.12,
+275,"Lenovo
+                
+                
+                    Netherlands","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B2F,Software Company MNED,"53,760",2.36,4.64,
+276,"Lenovo
+                
+                
+                    Netherlands","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B2E,Software Company MNED,"53,760",2.36,4.64,
+277,"Lenovo
+                
+                
+                    Netherlands","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B2B,Software Company MNED,"53,760",2.36,4.64,
+278,"Lenovo
+                
+                
+                    United States","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B2D,Software Company MUS,"53,760",2.36,4.64,
+279,"Lenovo
+                
+                
+                    United States","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B2C,Software Company MUS,"53,760",2.36,4.64,
+280,"Lenovo
+                
+                
+                    United States","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B2A,Software Company MUS,"53,760",2.36,4.64,
+281,"Nvidia
+                
+                
+                    United States","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband,",NVIDIA DGX SuperPOD,NVIDIA Corporation,"19,840",2.36,2.81,90
+282,"Lenovo
+                
+                
+                    China","- ThinkSystem HR630X, Xeon Silver 4110 8C 2.1GHz, 10G Ethernet,",ZZ1,Service Provider T,"1,53,600",2.35,10.32,
+283,"Lenovo
+                
+                
+                    Ireland","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A12A,Software Company MIR,"69,120",2.35,4.64,
+284,"Lenovo
+                
+                
+                    Ireland","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A11A,Software Company MIR,"69,120",2.35,4.64,
+285,"Lenovo
+                
+                
+                    Norway","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A17A,Software Company MNY,"69,120",2.35,4.64,
+286,"Lenovo
+                
+                
+                    Switzerland","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A17A,Software Company MSW,"69,120",2.35,4.64,
+287,"Lenovo
+                
+                
+                    United States","- ThinkSystem C2397, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",B1B,Software Company MUS,"69,120",2.35,4.64,
+288,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A10A,Software Company MUS,"69,120",2.35,4.64,
+289,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A4A,Software Company MUS,"69,120",2.35,4.64,
+290,"Huawei Technologies Co., Ltd.
+                
+                
+                    Poland","- CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR,",Ares,Cyfronet,"37,824",2.34,3.51,487
+291,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon 8260M 24C 2.4GHz, NVIDIA Tesla V100, 100G Ethernet,",,Internet Company,"48,160",2.34,4.37,
+292,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon 8260M 24C 2.4GHz, NVIDIA Tesla V100, 100G Ethernet,",,Internet Company,"48,160",2.34,4.37,
+293,"Lenovo
+                
+                
+                    Germany","- ThinkSystem SD650 V2, Xeon Platinum 8368 38C 2.4GHz, Mellanox HDR Infiniband,",HoreKa-Blue,Karlsruher Institut für Technologie (KIT),"45,752",2.33,3.51,495
+294,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet,",,Internet Service P,"53,760",2.33,4.48,
+295,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet,",,Internet Service P,"53,760",2.33,4.48,
+296,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet,",,Internet Service P,"53,760",2.33,4.48,
+297,"DELL EMC
+                
+                
+                    Saudi Arabia","- PowerEdge R440/C6320p, Intel Xeon Phi 7250/Xeon Gold 6130 16C 2.1GHz, Intel Omni-Path,",Makman-3,Saudi Aramco,"53,300",2.32,3.58,608
+298,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",F1,Service Provider T,"56,000",2.32,4.48,
+299,"Inspur
+                
+                
+                    China","Inspur TS10000 HPC Server, Xeon Gold 6226R 16C 2.9GHz, NVIDIA Tesla V100, 25G Ethernet,",,Energy Company B,"49,920",2.32,4.41,
+300,"Lenovo
+                
+                
+                    China","ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet,",,Service Provider T,"1,08,800",2.31,4,
+301,"MEGWARE
+                
+                
+                    Austria","- MEGWARE SLIDESX, AMD EPYC 7713 64C 2GHz, Infiniband HDR,",VSC-5,Vienna Scientific Cluster,"95,232",2.31,3.05,516
+302,"Quanta Computer / Taiwan Fixed Network / ASUS Cloud
+                
+                
+                    Taiwan","- QCT QuantaPlex T42D-2U/4N, Xeon Platinum 8280 28C 2.7GHz, InfiniBand HDR 100,",Taiwania 3,National Center for High Performance Computing,"50,400",2.3,4.35,564
+303,"IBM
+                
+                
+                    United States","- IBM Power System AC922, IBM POWER9 20C 3.6GHz, NVIDIA Tesla V100 SXM2, Infiniband EDR,",Longhorn,Texas Advanced Computing Center/Univ. of Texas,"37,440",2.29,2.87,
+304,"DELL EMC
+                
+                
+                    United Kingdom","- PowerEdge XE8545, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 80GB​, Infiniband HDR200 dual rail,",Wilkes-3,University of Cambridge,"26,880",2.29,6.64,74
+305,"Inspur
+                
+                
+                    China","Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet,",,Internet Service P,"55,104",2.29,4.89,
+306,"Atos
+                
+                
+                    Luxembourg","- BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Mellanox HDR200 InfiniBand/ParTec ParaStation ClusterSuite,",MeluXina - Cluster Module,LuxProvide,"73,344",2.29,3,377
+307,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet,",,Telecom Operator (C),"47,320",2.28,4.37,
+308,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet,",,Telecom Operator (C),"47,320",2.28,4.37,
+309,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet,",,Telecom Operator (C),"47,320",2.28,4.37,
+310,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet,",,Telecom Operator (C),"47,320",2.28,4.37,
+311,"HPE
+                
+                
+                    Sweden","- HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10,",Dardel,KTH - Royal Institute of Technology,"69,632",2.28,2.51,
+312,"DELL EMC
+                
+                
+                    Canada","- Dell EMC PowerEdge R640, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, Infiniband EDR,",Béluga,Calcul Québec/Compute Canada,"72,480",2.28,7.49,240
+313,"Inspur
+                
+                
+                    China","Inspur TS10000 HPC Server, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, InfiniBand HDR 100,",,Research Laboratory H,"40,560",2.28,3.92,
+314,"Inspur
+                
+                
+                    China","Inspur TS10000 HPC Server, Xeon Gold 6230 20C 2.1GHz, NVIDIA Tesla V100, Infiniband HDR,",,AI company J,"40,800",2.27,3.91,
+315,"HPE
+                
+                
+                    South Korea","- Apollo 6500 Gen10 plus, AMD  EPYC 7543 32C 2.8GHz, NVIDIA A100 80GB​, Infiniband HDR200,",SSC-21 Scalable Module,Samsung Electronics,"16,704",2.27,2.6,103
+316,"DELL EMC
+                
+                
+                    United Kingdom","- PowerEdge C6420/C6320, Intel Xeon Phi 7210/Xeon Gold 6142F 16C 2.6GHz, Intel Omni-Path,",Cumulus,University of Cambridge,"50,176",2.27,2.69,530
+317,"Atos
+                
+                
+                    France","- BullSequana XH2000, AMD EPYC 7763 64C 2.45GHz, Atos BXI V2,",CEA-HFi,Commissariat a l'Energie Atomique (CEA),"73,728",2.26,2.89,
+318,"Nvidia
+                
+                
+                    Russia","- NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 40GB, Infiniband,",MTS GROM,#CloudMTS,"19,840",2.26,3.01,
+319,"Nvidia
+                
+                
+                    United States","- NVIDIA DGX A100 Liquid Cooled Prototype, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 80GB​, Infiniband HDR,",Tethys,NVIDIA Corporation,"19,840",2.25,2.68,72
+320,"DELL EMC
+                
+                
+                    Saudi Arabia","- Dell PowerEdge R630, Xeon E5-2680v3 12C 2.5GHz, Infiniband QDR,",Makman-2,Saudi Aramco,"76,032",2.25,3.04,"1,134"
+321,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",G1,Service Provider T,"54,000",2.24,4.32,
+322,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6233 24C 2.5GHz, 10G Ethernet,",,Service Provider T,"57,600",2.24,4.61,
+323,"MEGWARE
+                
+                
+                    Germany","- Megware D50TNP, Xeon Platinum 8360Y 36C 2.4GHz, InfiniBand HDR100,",Fritz,Universitaet Erlangen - Regionales Rechenzentrum Erlangen,"67,968",2.23,3.38,418
+324,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet,",,Internet Company,"67,200",2.19,4.52,740
+325,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet,",,Bank G,"50,400",2.19,4.82,
+326,"Preferred Networks
+                
+                
+                    Japan","- MN-Core Server, Xeon Platinum 8260M 24C 2.4GHz, Preferred Networks MN-Core, MN-Core DirectConnect,",MN-3,Preferred Networks,"1,664",2.18,3.35,53
+327,"Lenovo
+                
+                
+                    Germany","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B4A,Software Company MGER,"49,280",2.17,4.26,
+328,"Lenovo
+                
+                
+                    United States","ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",,Software Company MUS,"49,280",2.17,4.26,
+329,"Lenovo
+                
+                
+                    United States","ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",,Software Company MUS,"49,280",2.17,4.26,
+330,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",H1,Service Provider T,"52,000",2.17,4.16,
+331,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR,",,Internet Service (S),"49,800",2.16,4.42,
+332,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR,",,Internet Service (S),"49,800",2.16,4.42,
+333,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR,",,Internet Service (S),"49,800",2.16,4.42,
+334,"Lenovo
+                
+                
+                    China","ThinkSystem HR630X, Xeon Silver 4110 8C 2.1GHz, 10G Ethernet,",,Service Provider T,"1,28,000",2.16,4.3,
+335,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet,",,Internet Company,"1,21,920",2.15,8.97,"1,625"
+336,"HPE
+                
+                
+                    United States","- Cray CS500, AMD EPYC 7542 32C 2.9GHz, InfiniBand HDR100,",Betty,US Army Research Laboratory (ARL),"94,976",2.13,4.41,
+337,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet,",,DJIT Company,"96,640",2.13,7.11,
+338,"Lenovo
+                
+                
+                    Netherlands","- ThinkSystem SR645, AMD EPYC 7H12 64C 2.6GHz, InfiniBand HDR100,",Snellius Phase 1 CPU,SURF,"73,728",2.13,3.07,504
+339,"MEGWARE
+                
+                
+                    Germany","- Megware D50TNP, Xeon Platinum 8360Y 36C 2.4GHz, InfiniBand HDR100,",HSUper,Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg,"41,832",2.13,3.21,401
+340,"HPE
+                
+                
+                    Australia","- HPE Cray EX, AMD EPYC 7763 64C 2.45GHz, Slingshot-10,",Setonix,"Pawsey Supercomputing Centre, Kensington, Western Australia","65,536",2.12,2.57,
+341,"Inspur
+                
+                
+                    China","INSPUR NF5288M5, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 25G Ethernet,",,Bank (Z),"44,200",2.12,4.06,
+342,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet,",,Service Provider T,"44,720",2.12,4.06,
+343,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet,",,Service Provider T,"44,720",2.12,4.06,
+344,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet,",,Service Provider T,"44,720",2.12,4.06,
+345,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR,",,Xinjiang SC Center,"44,720",2.12,3.9,265
+346,"Inspur
+                
+                
+                    China","INSPUR NF5288M5, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 100G Ethernet,",,Internet Company,"53,760",2.11,4.65,
+347,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon Gold 6142 16C 2.6GHz, Intel Omni-Path, NVIDIA Tesla V100,",MagicCube3,Shanghai Supercomputer Center,"40,960",2.11,3.43,430
+348,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",I1,Service Provider T,"50,000",2.09,4,
+349,"HPE
+                
+                
+                    Japan","- Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ,",ATERUI II,National Astronomical Observatory of Japan,"40,000",2.09,3.07,496
+350,"Lenovo
+                
+                
+                    United States","- ThinkSystem SR650, Xeon Gold 6240 18C 2.6GHz, Infiniband HDR,",Greene,New York University,"32,796",2.09,3.04,512
+351,"Lenovo
+                
+                
+                    Australia","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A15A,Software Company MAU,"61,440",2.09,4.13,
+352,"Lenovo
+                
+                
+                    Brazil","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A16A,Software Company MBZ,"61,440",2.09,4.13,
+353,"Lenovo
+                
+                
+                    Japan","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A14A,Software Company MJP,"61,440",2.09,4.13,
+354,"Lenovo
+                
+                
+                    United Kingdom","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A13A,Software Company MUK,"61,440",2.09,4.13,
+355,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A13A,Software Company MUS,"61,440",2.09,4.13,
+356,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet,",,Internet Service U,"44,032",2.09,3.84,260
+357,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet,",,Service Provider T,"48,160",2.08,4.23,
+358,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet,",,Service Provider T,"48,160",2.08,4.23,
+359,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Platinum 8163 24C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet,",,Service Provider T,"48,160",2.08,4.23,
+360,"Lenovo
+                
+                
+                    United States","- ThinkSystem SD650, Xeon Platinum 8268 24C 2.9GHz, InfiniBand HDR100,",Cannon,Harvard University,"32,160",2.08,2.98,
+361,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 10G Ethernet,",,Telecom Company,"59,760",2.08,5.25,
+362,"Lenovo
+                
+                
+                    China","- ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, 10G Ethernet,",JD I1,Internet Company,"52,320",2.07,4.02,
+363,"Lenovo
+                
+                
+                    Australia","- ThinkSystem SR670 V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100, Infiniband HDR,",Phoenix - 2022,University of Adelaide,"20,160",2.07,3.34,69
+364,"NUDT
+                
+                
+                    China","- Tianhe-2 LvLiang, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Intel Xeon Phi 31S1P,",Tianhe-2 LvLiang Solution,LvLiang Cloud Computing Center,"1,74,720",2.07,3.07,997
+365,"DELL EMC
+                
+                
+                    United States","- PowerEdge R740, Xeon Gold 6248R 24C 3GHz, NVIDIA A100 40GB, InfiniBand HDR 100,",Grace-GPU,Texas A&M University,"26,400",2.06,3.9,
+366,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6142 16C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR,",,Government,"44,160",2.06,3.86,
+367,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 10G Ethernet,",,DJIT Company,"49,200",2.05,3.94,
+368,"Inspur
+                
+                
+                    China","INSPUR NF5288M5, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet,",,Internet Service (B),"53,040",2.03,4.65,
+369,"Inspur
+                
+                
+                    China","INSPUR NF5288M5, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet,",,Internet Service (B),"53,040",2.03,4.65,
+370,"Lenovo
+                
+                
+                    China","ThinkSystem HR650X, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",,Service Provider T,"48,000",2.03,3.84,
+371,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet,",,Telecom Company,"55,440",2.03,4.08,590
+372,"HPE
+                
+                
+                    France","- Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 80 GB, Mellanox HDR Infiniband,",Champollion,Hewlett Packard Enterprise,"19,840",2.02,2.52,
+373,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 5120 14C 2.2GHz, NVIDIA Tesla V100, 10G Ethernet,",,Bank I,"48,880",2.02,44.98,
+374,"ACTION
+                
+                
+                    United States","- PowerEdge C6420, Xeon Platinum 8260 24C 2.4GHz, 25G Ethernet,",TX-Green2,MIT Lincoln Laboratory Supercomputing Center,"43,200",2.02,53.08,
+375,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",J1,Service Provider T,"48,000",2.01,3.84,
+376,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Platinum 8260M 24C 2.4GHz, NVIDIA Tesla V100, 100G Ethernet,",,Internet Company,"41,280",2.01,3.74,
+377,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6230 20C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet,",,Manufacturing Company (V),"40,800",2.01,3.74,
+378,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet,",,Internet Company,"1,10,880",2.01,8.16,"1,470"
+379,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet,",,Internet Company,"42,312",2,3.69,250
+380,"HPE
+                
+                
+                    United States","- HPE SGI 8600, Xeon Platinum 8168 24C 2.7GHz, Intel Omni-Path,",Koehr,Navy DSRC,"34,560",2,2.99,
+381,"HPE
+                
+                
+                    United States","- HPE SGI 8600, Xeon Platinum 8168 24C 2.7GHz, Intel Omni-Path,",Gaffney,Navy DSRC,"34,560",2,2.99,
+382,"Fujitsu
+                
+                
+                    Japan","- PRIMERGY CX2550 M4 M4, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,",Grand Chariot,"Information Initiative Center, Hokkaido University","39,760",2,3.05,
+383,"Fujitsu
+                
+                
+                    Japan","- Fujitsu A64FX, Fujitsu A64FX 48C 2GHz, Tofu interconnect D,",A64FX prototype,Fujitsu Numazu Plant,"36,864",2,2.36,118
+384,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,",TTSystem,Internet Service (B),"1,16,600",2,4.1,"1,200"
+385,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR,",,Chengdu SC Center,"5,20,000",1.99,39.94,510
+386,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",K1,Service Provider T,"47,200",1.98,3.78,
+387,"Atos
+                
+                
+                    France","- Bull intel Cluster, Xeon Gold 6140 18C 2.3GHz, Intel Omni-Path,",Gaïa,EDF,"41,472",1.98,3.05,512
+388,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet,",HKVDPSystem,IT Service Provider,"1,21,920",1.98,4.1,"1,216"
+389,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet,",HKVDPSystem,Internet Company,"1,21,920",1.98,4.1,"1,216"
+390,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet,",bsystem,Internet Company,"60,800",1.98,4.09,660
+391,"Lenovo
+                
+                
+                    China","ThinkSystem SR590, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet,",,DJIT Company,"89,600",1.98,6.59,
+392,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, Infiniband EDR,",,Internet Service (S),"45,152",1.98,4.01,
+393,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, 25G Ethernet,",,Service Provider T,"45,152",1.98,4.01,
+394,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6146 12C 3.2GHz, NVIDIA Tesla V100, 25G Ethernet,",,Service Provider T,"45,152",1.98,4.01,
+395,"Lenovo
+                
+                
+                    Ireland","- ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",B3A,Software Company MIR,"44,800",1.97,3.87,
+396,"Lenovo
+                
+                
+                    United States","ThinkSystem C2397, Xeon Platinum 8280 28C 2.7GHz, 100G Ethernet,",,Software Company MUS,"44,800",1.97,3.87,
+397,"NEC/MEGWARE
+                
+                
+                    Germany","- NEC Cluster, Xeon Gold 6130 16C 2.1GHz, MEGWARE MiriQuid Xeon E5-2630v4, Intel Omni-Path,",Mogon II,Universitaet Mainz,"49,432",1.97,2.8,657
+398,"HPE
+                
+                
+                    United States","- Apollo 2000 Gen 8/9, Xeon E5-2680v4/E5-2695v3 14C 2.4GHz, Infiniband FDR,",Biowulf,National Institutes of Health (NIH),"66,304",1.97,2.49,
+399,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 25G Ethernet, NVIDIA Tesla V100,",,Energy Company,"41,280",1.96,3.6,245
+400,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 25G Ethernet,",,Telecom Company,"47,600",1.96,3.96,650
+401,"PEZY Computing / Exascaler Inc.
+                
+                
+                    Japan","- ZettaScaler3.0, AMD  EPYC 7702P 64C 1.5GHz, PEZY-SC3, Infiniband EDR,",NA-J2,NA Simulation,"11,51,360",1.95,2.93,89
+402,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet,",,State Grid Corp,"53,280",1.95,3.92,570
+403,"Lenovo
+                
+                
+                    Sweden","- ThinkSystem SD650-N V2, Xeon 6338 32C 2GHz, NVIDIA A100, Infiniband HDR,",Alvis,Research Company C,"41,664",1.94,3.6,
+404,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet,",,IT Service Provider,"58,112",1.93,3.91,630
+405,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 6132 14C 2.6GHz, NVIDIA Tesla V100, 25G Ethernet,",,Bank (J),"51,504",1.93,4.62,
+406,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet,",CTcluster,Telecom Company,"54,000",1.93,3.97,520
+407,"Inspur
+                
+                
+                    China","Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, Infiniband EDR,",,Internet Company,"40,320",1.92,3.52,
+408,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6138 20C 2GHz, 10G Ethernet,",,Financial Company P,"57,200",1.91,3.66,
+409,"Huawei Technologies Co., Ltd.
+                
+                
+                    China","Huawei 2288H V5, Xeon Gold 6150 18C 2.7GHz, 10G Ethernet,",,Energy Company,"49,680",1.91,4.29,733
+410,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon E5-2698v3 16C 2.3GHz, 10G Ethernet,",,DJIT Company,"86,400",1.91,3.18,
+411,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 25G Ethernet,",,DJIT Company,"46,200",1.9,3.84,630
+412,"HPE
+                
+                
+                    Switzerland","- Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,",Piz Daint Multicore,Swiss National Supercomputing Centre (CSCS),"65,268",1.9,2.19,732
+413,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet,",,Internet Company,"56,800",1.9,3.82,625
+414,"Lenovo
+                
+                
+                    United States","- ThinkSystem SD530/SR670, Xeon Gold 6248R 24C 3GHz, Infiniband HDR,",Rockfish,Johns Hopkins University,"32,352",1.89,3.11,
+415,"HPE
+                
+                
+                    United States","- Apollo 6500, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, InfiniBand HDR 100,",Agate,University of Minnesota/Supercomputing Institute,"31,744",1.88,3.55,
+416,"Lenovo
+                
+                
+                    China","- Lenovo HR650x, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet,",A1,Service Provider T,"47,040",1.88,3.61,
+417,"Inspur
+                
+                
+                    China","INSPUR SA5212M5, Xeon Gold 5117 14C 2GHz, NVIDIA Tesla V100, 10G Ethernet,",,Internet Service (B),"1,73,680",1.87,15.16,
+418,"Inspur
+                
+                
+                    China","Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, 25G Ethernet,",,Internet Service P,"40,320",1.87,3.52,
+419,"Atos
+                
+                
+                    France","- bullx DLC 720, Xeon E5-2698v3 16C 2.3GHz, Infiniband FDR,",Tera-1000-1,Commissariat a l'Energie Atomique (CEA),"70,272",1.87,2.59,"1,042"
+420,"HPE
+                
+                
+                    Japan","HPE SGI 8600, Xeon Gold 6242R 20C 3.1GHz, Infiniband EDR,",,Japan Atomic Energy Agency(JAEA)/ National Institutes for Quantum and Radiological Science and Technology(QST),"28,240",1.87,2.8,
+421,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6248 20C 2.5GHz, 10G Ethernet,",,DJIT Company,"44,000",1.86,3.52,
+422,"Inspur
+                
+                
+                    China","Inspur NF5468M5, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet,",,Internet Service P,"46,480",1.85,4.08,
+423,"Inspur
+                
+                
+                    China","Inspur TS10000, Xeon Gold 6248 20C 2.5GHz/Platinum 8268 24C 2.9GHz, NVIDIA Tesla V100, 100G Ethernet,",,Nanjing University,"37,440",1.85,3.43,
+424,"Atos
+                
+                
+                    Brazil","- Bull Sequana X1000, Xeon Gold 6252 24C 2.1GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2,",Santos Dumont (SDumont),Laboratório Nacional de Computação Científica,"33,856",1.85,2.73,
+425,"Penguin Computing, Inc.
+                
+                
+                    United States","- Relion XE2142/XE1114GT, Intel Xeon Gold 6226 12C 2.7GHz, NVIDIA Tesla V100, Mellanox InfiniBand HDR100,",Phoenix,Georgia Institute of Technology,"31,104",1.84,2.69,
+426,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet,",bsystem,Internet Company,"55,040",1.84,3.7,600
+427,"Lenovo
+                
+                
+                    China","ThinkSystem SR570, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet,",,DJIT Company,"83,200",1.84,6.12,
+428,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet,",,DJIT Company,"48,000",1.83,3.69,470
+429,"HPE
+                
+                
+                    United States","- Apollo 70, Marvell ThunderX2 ARM CN9975-2000  28C 2GHz, 4xEDR Infiniband,",Astra,Sandia National Laboratories,"1,43,640",1.83,2.3,"1,193"
+430,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 5117 14C 2GHz, 25G Ethernet,",,Internet Service (B),"1,16,200",1.83,7.44,"1,300"
+431,"Lenovo
+                
+                
+                    China","Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,",,Service Provider T,"43,200",1.83,3.46,
+432,"Atos
+                
+                
+                    United Kingdom","- Bull Sequana X1000, Intel Xeon Phi 7210 64C 1.3GHz/Xeon Gold 6142, Mellanox EDR,",scafellpike,Science and Technology Facilities Council,"80,640",1.83,4.33,529
+433,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6138 20C 2GHz, 10G Ethernet, NVIDIA Tesla P100,",,Financial Company P,"66,080",1.83,4.98,
+434,"Lenovo
+                
+                
+                    United States","- ThinkSystem C0366, Xeon Gold 6252 24C 2.1GHz, 100G Ethernet,",A2A,Software Company MUS,"53,760",1.83,3.61,
+435,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet,",JGV100System,Internet Company,"41,760",1.82,3.35,240
+436,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 10G Ethernet,",,IT Service Provider,"44,100",1.82,3.67,600
+437,"Inspur
+                
+                
+                    China","INSPUR SA5212M5, Xeon Gold 5117 14C 2GHz, NVIDIA Tesla V100, 10G Ethernet,",,Internet Service (B),"48,880",1.82,4.14,
+438,"Inspur
+                
+                
+                    China","INSPUR SA5212M5, Xeon Gold 5117 14C 2GHz, NVIDIA Tesla V100, 10G Ethernet,",,Internet Service (B),"48,880",1.82,4.14,
+439,"Lenovo
+                
+                
+                    Netherlands","- ThinkSystem SD650-N V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR,",Snellius Phase 1 GPU,SURF,"6,480",1.82,3.01,63
+440,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet,",,Government Agency (S),"54,240",1.81,3.64,600
+441,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, Infiniband EDR,",szaisystem,Suzhou SC center,"30,600",1.81,2.67,180
+442,"Lenovo
+                
+                
+                    China","- ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet,",Bank P A2,Financial Company P,"36,000",1.81,3.02,
+443,"Lenovo
+                
+                
+                    China","- ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet,",Bank P A2,Financial Company P,"36,000",1.81,3.02,
+444,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet,",JCSystem,Internet Company,"1,10,080",1.81,3.7,"1,100"
+445,"Lenovo
+                
+                
+                    China","- ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,",S1,Government,"33,840",1.8,2.92,
+446,"HPE
+                
+                
+                    Sweden","- Cray XC40, Xeon E5-2695v4/E5-2698v3 16C 2.3GHz, Aries interconnect ,",Beskow,KTH - Royal Institute of Technology,"67,456",1.8,2.44,842
+447,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,",ESSystem,State Grid Corp,"1,05,000",1.79,3.7,"1,100"
+448,"NEC
+                
+                
+                    Japan","- NEC LX Cluster, Xeon Gold 6148/6154, Intel Omni-Path,",Molecular Simulator,Institute for Molecular Science,"38,552",1.79,3.07,544
+449,"Lenovo
+                
+                
+                    China","- ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,",R1,Government,"33,120",1.77,2.86,
+450,"Lenovo
+                
+                
+                    China","ThinkSystem SR570, Xeon Gold 5218 16C 2.3GHz, 10G Ethernet,",,DJIT Company,"80,000",1.77,5.89,
+451,"Sugon
+                
+                
+                    China","Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet,",,Internet Company,"99,360",1.76,7.31,"1,320"
+452,"Huawei Technologies Co., Ltd.
+                
+                
+                    United Arab Emirates","- Huawei Cluster, Xeon Gold 6148 20C 2.4GHz, Infiniband,",POD3,Group 42,"34,800",1.76,2.67,
+453,"HPE
+                
+                
+                    Germany","- Apollo XL230k, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,",QURIOSITY,BASF,"35,280",1.75,2.71,
+454,"NEC
+                
+                
+                    Germany","- NEC LX Cluster, AMD Epyc 7601 32C 2.2GHz, Infiniband HDR,",CARA,German Aerospace Center,"1,45,920",1.75,2.57,
+455,"Lenovo
+                
+                
+                    China","ThinkSystem SR590, Xeon E7-4850V3 14C 2.2GHz, 10G Ethernet,",,DJIT Company,"23,12,800",1.74,81.41,
+456,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet,",CSystem,Telecom Operator (C),"97,920",1.74,7.21,"1,000"
+457,"Lenovo
+                
+                
+                    China","- ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,",Q1,Government,"32,400",1.74,2.8,
+458,"Inspur
+                
+                
+                    China","Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet,",,Internet Service A,"38,400",1.73,3.07,
+459,"Inspur
+                
+                
+                    China","Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet,",,Internet Service A,"38,400",1.73,3.07,
+460,"Inspur
+                
+                
+                    China","Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet,",,Internet Service A,"38,400",1.73,3.07,
+461,"Lenovo
+                
+                
+                    China","- Lenovo RD350, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet,",Internet Company T DD1,Service Provider T,"1,18,400",1.73,3.98,
+462,"Huawei Technologies Co., Ltd.
+                
+                
+                    Poland","- CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR,",Tryton Plus,"Gdansk University of Technology, CI Task","30,432",1.73,2.82,307
+463,"Huawei Technologies Co., Ltd.
+                
+                
+                    Germany","Huawei X6000, Xeon Gold 6242 16C 2.8GHz, Infiniband EDR,",,Manufacturing Company B,"38,400",1.72,3.44,655
+464,"Fujitsu
+                
+                
+                    Japan","PRIMERGY CX2550 M4, Xeon Gold 6248 20C 2.5GHz, Intel Omni-Path,",,"Meteorological Research Institute, Japan Meteorological Agency","35,200",1.72,2.82,
+465,"Inspur
+                
+                
+                    China","Inspur TS10000, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet, NVIDIA Tesla P100,",,Internet Service A,"39,680",1.71,3.15,
+466,"Atos
+                
+                
+                    Finland","- Bull Sequana X1000, Xeon Gold 6230 20C 2.1GHz, Mellanox HDR100,",Puhti,CSC (Center for Scientific Computing),"40,000",1.71,2.69,585
+467,"Lenovo
+                
+                
+                    China","- ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,",P1,Government,"31,680",1.7,2.74,
+468,"HPE
+                
+                
+                    United States","- Cluster Platform 3000 BL460c Gen9, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,",SwiftLucy,Government,"57,600",1.7,2.3,"2,880"
+469,"Fujitsu
+                
+                
+                    Japan","- PRIMERGY CX2550 M4, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR,",AFI-NITY,"Tohoku University, Institute of Fluid Science","35,200",1.69,2.7,
+470,"Lenovo
+                
+                
+                    China","- ThinkSystem SD530, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,",TaiYi,Southern University of Science and Technology,"32,400",1.69,2.49,
+471,"Lenovo
+                
+                
+                    China","ThinkSystem SD530, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR,",,Government,"35,200",1.68,2.7,
+472,"Lenovo
+                
+                
+                    China","ThinkSystem SD650, Xeon Gold 6240 18C 2.6GHz, Infiniband EDR,",,Beijing Meteorological Association,"28,800",1.68,2.7,
+473,"Sugon
+                
+                
+                    China","- Sugon TC6000, Xeon E5-2650v4 12C 2.2GHz, 10G Ethernet,",ISystem,IIT Company,"97,920",1.68,3.45,"1,050"
+474,"Huawei Technologies Co., Ltd.
+                
+                
+                    China","- Huawei 1288H V5, Xeon Platinum 8160  24C 2.1GHz, Infiniband EDR,",Internet Service D,Internet Service J,"48,960",1.67,3.29,524
+475,"HPE
+                
+                
+                    Poland","- HP Apollo 8000, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR, NVIDIA Tesla K40,",Prometheus,Cyfronet,"55,728",1.67,2.35,808
+476,"Lenovo
+                
+                
+                    China","- ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,",O1,Government,"30,960",1.67,2.67,
+477,"Lenovo
+                
+                
+                    China","ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, 10G Ethernet,",,Internet Company,"41,760",1.67,3.21,
+478,"Sugon
+                
+                
+                    China","Sugon TC6000, AMD Epyc 7501 32C 2GHz, AMD Vega 20, Infiniband HDR,",,Pukou Advanced Computing Center,"1,00,800",1.66,2.47,260
+479,"Intel
+                
+                
+                    United States","- Intel Cluster, Intel Xeon 6245/8280/6230/8268/8260L/8276/9242, Intel Omni-Path,",Endeavor,Intel,"31,524",1.65,2.47,559
+480,"Lenovo
+                
+                
+                    China","- Lenovo RD450, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,",Internet Company T Y1,Service Provider T,"89,600",1.65,3.44,
+481,"Lenovo
+                
+                
+                    China","ThinkSystem SR570, Xeon E7-4850V3 14C 2.2GHz, 10G Ethernet,",,DJIT Company,"78,400",1.65,2.76,
+482,"Lenovo
+                
+                
+                    Australia","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) AA1,Cloud Provider,"57,600",1.65,2.12,
+483,"Lenovo
+                
+                
+                    Canada","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) CA3,Cloud Provider,"57,600",1.65,2.12,
+484,"Lenovo
+                
+                
+                    Canada","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) CA2,Cloud Provider,"57,600",1.65,2.12,
+485,"Lenovo
+                
+                
+                    Canada","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) CA1,Cloud Provider,"57,600",1.65,2.12,
+486,"Lenovo
+                
+                
+                    Canada","Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",,Cloud Provider,"57,600",1.65,2.12,
+487,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A16,Hosting Services,"57,600",1.65,2.12,
+488,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A15,Hosting Services,"57,600",1.65,2.12,
+489,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A14,Hosting Services,"57,600",1.65,2.12,
+490,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A13,Hosting Services,"57,600",1.65,2.12,
+491,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A11,Hosting Services,"57,600",1.65,2.12,
+492,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A10,Hosting Services,"57,600",1.65,2.12,
+493,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A9,Hosting Services,"57,600",1.65,2.12,
+494,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A8,Hosting Services,"57,600",1.65,2.12,
+495,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A7,Hosting Services,"57,600",1.65,2.12,
+496,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A6,Hosting Services,"57,600",1.65,2.12,
+497,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A4,Hosting Services,"57,600",1.65,2.12,
+498,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A3,Hosting Services,"57,600",1.65,2.12,
+499,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A2,Hosting Services,"57,600",1.65,2.12,
+500,"Lenovo
+                
+                
+                    United States","- Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,",Software Company (M) A1,Hosting Services,"57,600",1.65,2.12,
